@@ -1,0 +1,6 @@
+edu\escuelaing\aws\client\ConcurrentClient.class
+edu\escuelaing\aws\server\requests\impl\TextHandler.class
+edu\escuelaing\aws\server\requests\ResourceHandler.class
+edu\escuelaing\aws\server\requests\impl\ImageHandler.class
+edu\escuelaing\aws\server\requests\RequestHandler.class
+edu\escuelaing\aws\server\WebServer.class

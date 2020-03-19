@@ -1,0 +1,1 @@
+alert("Hello from remote server js file!");
